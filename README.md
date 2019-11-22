@@ -1,4 +1,4 @@
-npm i
+npm i  
 npm run storybook
 
 Note the class name applied to the div:  
